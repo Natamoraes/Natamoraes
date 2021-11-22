@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nathan</h1>
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/natamoraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natamoraes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamoraes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
   </a>
@@ -13,8 +13,6 @@
 - 🌱 I am currently learning **Web development and pos system**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio(under development)]**
 
 
 
@@ -47,7 +45,7 @@ You can click the Preview link to take a look at your changes.
   <a href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> 
   <a href=""><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/natamoraes/natamoraes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
